@@ -1,0 +1,5 @@
+{
+  "domain": "https://www.kutech.tw:4443",
+  "homepage": "https://www.kutech.tw:450/",
+  "ai": "https://www.kutech.tw:4443/api"
+}
